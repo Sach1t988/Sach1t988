@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi there 👋
+I am Sachit Ghimire and this is my Github. 
 
-<!--
-**Sach1t988/Sach1t988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Through academic projects and hands-on experience, I have worked with technologies such as Python, Java, machine learning models, computer networks, and security concepts, 
+and I am continuously expanding my skill set by building and experimenting with new systems. I am particularly interested in understanding how intelligent and secure systems 
+are designed, optimized, and applied in real environments.
 
-Here are some ideas to get you started:
+Tools: 
+  Java
+  HTML
+  CSS 
+  JS
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
